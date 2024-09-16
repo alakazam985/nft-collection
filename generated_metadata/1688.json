@@ -1,0 +1,94 @@
+{
+  "name": "Zeniya Klecko #1688",
+  "description": "Zeniya Klecko is a Wood Elf Knight, who has 4 sibling(s), and was born in the Home of a healer and rasied by their extended Family. Zeniya Klecko lives in the upper Isle of Zenaria, where she lives out her days as a Noble. Zeniya Klecko is a lone wolf and has been since she was a child. Zeniya Klecko never tried to make friends and often explored the island alone.",
+  "image": "https://alakazam985.github.io/nft-collection/generated_images/1688.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Wood Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "166cm (5'5\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Noble"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Comb Over"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Blue Cape"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Tan Striped Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "HP",
+      "value": 17
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 14
+    },
+    {
+      "trait_type": "DEX",
+      "value": 11
+    },
+    {
+      "trait_type": "CON",
+      "value": 14
+    },
+    {
+      "trait_type": "INT",
+      "value": 11
+    },
+    {
+      "trait_type": "WIS",
+      "value": 16
+    },
+    {
+      "trait_type": "CHA",
+      "value": 20
+    },
+    {
+      "trait_type": "Coins",
+      "value": 721
+    }
+  ]
+}

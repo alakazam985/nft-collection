@@ -1,0 +1,94 @@
+{
+  "name": "Zerk Whesker #6527",
+  "description": "Zerk Whesker is a High Elf Rogue, who has 6 sibling(s), and was born on a Battlefield and rasied by a Mother and Father. Zerk Whesker lives in the lower Isle of Zarkus, where he lives out his days as a Peasant. Zerk Whesker had several friends, and his childhood was generally a happy one.",
+  "image": "https://alakazam985.github.io/nft-collection/generated_images/6527.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "High Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Rogue"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "162cm (5'4\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "White/Green Cape"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Black Steel Armor"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Long Goatee"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Blood"
+    },
+    {
+      "trait_type": "HP",
+      "value": 9
+    },
+    {
+      "trait_type": "AC",
+      "value": 14
+    },
+    {
+      "trait_type": "STR",
+      "value": 13
+    },
+    {
+      "trait_type": "DEX",
+      "value": 8
+    },
+    {
+      "trait_type": "CON",
+      "value": 7
+    },
+    {
+      "trait_type": "INT",
+      "value": 17
+    },
+    {
+      "trait_type": "WIS",
+      "value": 14
+    },
+    {
+      "trait_type": "CHA",
+      "value": 15
+    },
+    {
+      "trait_type": "Coins",
+      "value": 493
+    }
+  ]
+}
